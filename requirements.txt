@@ -1,0 +1,2 @@
+# Requires: recursive-stillness
+# (Not available on PyPI)
